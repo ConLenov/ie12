@@ -1,0 +1,10 @@
+C:\Users\Булат\source\repos\IE12\IE12\bin\Debug\IE12.exe.config
+C:\Users\Булат\source\repos\IE12\IE12\bin\Debug\IE12.exe
+C:\Users\Булат\source\repos\IE12\IE12\bin\Debug\IE12.pdb
+C:\Users\Булат\source\repos\IE12\IE12\obj\Debug\IE12.csprojAssemblyReference.cache
+C:\Users\Булат\source\repos\IE12\IE12\obj\Debug\IE12.Properties.Resources.resources
+C:\Users\Булат\source\repos\IE12\IE12\obj\Debug\IE12.csproj.GenerateResource.cache
+C:\Users\Булат\source\repos\IE12\IE12\obj\Debug\IE12.csproj.CoreCompileInputs.cache
+C:\Users\Булат\source\repos\IE12\IE12\obj\Debug\IE12.exe
+C:\Users\Булат\source\repos\IE12\IE12\obj\Debug\IE12.pdb
+C:\Users\Булат\source\repos\IE12\IE12\obj\Debug\IE12.Form1.resources
