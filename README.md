@@ -1,3 +1,3 @@
 # ie12
 
-Internet Explorer 11
+Internet Explorer 12
